@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+pandas
+requests
+requests
+pandas
+langchain_google_genai
